@@ -9,7 +9,7 @@ Use the following in your `pom.xml`:
   <parent>
     <groupId>com.github.fracpete</groupId>
     <artifactId>central-portal-parent</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
   </parent>
 ```
 

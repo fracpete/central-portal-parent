@@ -7,10 +7,10 @@ Use the following command to make a new release:
 mvn release:clean release:prepare release:perform
 ```
 
-After the release perform a:
+After the release go to the following URL and publish the artifact:
 
 ```
-git push
+https://central.sonatype.com/publishing/deployments
 ```
 
 Update the Maven artifact version in [README.md](README.md#usage)
