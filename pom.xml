@@ -5,7 +5,7 @@
 
   <groupId>com.github.fracpete</groupId>
   <artifactId>central-portal-parent</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>pom</packaging>
 
   <name>central-portal-parent</name>
@@ -39,7 +39,7 @@
     <connection>scm:git:ssh://git@github.com/fracpete/central-portal-parent</connection>
     <developerConnection>scm:git:ssh://git@github.com/fracpete/central-portal-parent</developerConnection>
     <url>https://github.com/fracpete/central-portal-parent</url>
-    <tag>HEAD</tag>
+    <tag>central-portal-parent-0.0.1</tag>
   </scm>
 
   <profiles>
