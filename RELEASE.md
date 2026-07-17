@@ -1,6 +1,8 @@
 RELEASE
 =======
 
+Switch to Java 11.
+
 Use the following command to make a new release:
 
 ```
